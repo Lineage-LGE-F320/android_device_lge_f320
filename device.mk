@@ -25,4 +25,4 @@ $(call inherit-product, device/lge/g2-common/nfc.mk)
 
 # Sensors
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/configs/sensor_def_d802.conf:system/etc/sensor_def_variable.conf
+    $(LOCAL_PATH)/configs/sensor_def_f320.conf:system/etc/sensor_def_variable.conf
